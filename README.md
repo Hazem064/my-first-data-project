@@ -1,2 +1,18 @@
-# my-first-data-project
-"Superstore Sales Analysis using Python. Cleaned 9,000+ records &amp; visualized business insights on profit trends and discount impacts using Pandas &amp; Seaborn. Aimed at data-driven decision-making to optimize retail performance."
+تحليل بيانات متجر Superstore باستخدام Python 📊
+هذا المشروع يهدف إلى تحليل مبيعات وأرباح متجر تجزئة كبير للوصول إلى رؤى تساهم في تحسين الأداء المالي.
+
+🛠 الأدوات المستخدمة:
+Python: اللغة الأساسية.
+
+Pandas: لمعالجة وتنظيف البيانات.
+
+Seaborn & Matplotlib: للرسوم البيانية.
+
+🚀 خطوات العمل:
+تنظيف البيانات من القيم المفقودة.
+
+تحليل المبيعات السنوية والشهرية.
+
+تحديد أكثر المنتجات ربحية وأكثرها خسارة.
+
+دراسة تأثير الخصومات على صافي الربح.
